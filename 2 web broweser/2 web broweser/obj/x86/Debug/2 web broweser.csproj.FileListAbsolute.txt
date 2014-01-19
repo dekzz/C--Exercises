@@ -1,0 +1,9 @@
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\2 web broweser\2 web broweser\bin\Debug\2 web broweser.exe
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\2 web broweser\2 web broweser\bin\Debug\2 web broweser.pdb
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\2 web broweser\2 web broweser\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\2 web broweser\2 web broweser\obj\x86\Debug\_2_web_broweser.frmBrowser.resources
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\2 web broweser\2 web broweser\obj\x86\Debug\_2_web_broweser.Properties.Resources.resources
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\2 web broweser\2 web broweser\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\2 web broweser\2 web broweser\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\2 web broweser\2 web broweser\obj\x86\Debug\2 web broweser.exe
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\2 web broweser\2 web broweser\obj\x86\Debug\2 web broweser.pdb

@@ -1,0 +1,9 @@
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\9 season of year\9 season of year\bin\Debug\9 season of year.exe
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\9 season of year\9 season of year\bin\Debug\9 season of year.pdb
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\9 season of year\9 season of year\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\9 season of year\9 season of year\obj\x86\Debug\_9_season_of_year.frmSeason.resources
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\9 season of year\9 season of year\obj\x86\Debug\_9_season_of_year.Properties.Resources.resources
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\9 season of year\9 season of year\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\9 season of year\9 season of year\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\9 season of year\9 season of year\obj\x86\Debug\9 season of year.exe
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\9 season of year\9 season of year\obj\x86\Debug\9 season of year.pdb

@@ -1,0 +1,9 @@
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\1 txt replacement\1 txt replacement\bin\Debug\1 txt replacement.exe
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\1 txt replacement\1 txt replacement\bin\Debug\1 txt replacement.pdb
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\1 txt replacement\1 txt replacement\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\1 txt replacement\1 txt replacement\obj\x86\Debug\_1_txt_replacement.frmTxtReplace.resources
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\1 txt replacement\1 txt replacement\obj\x86\Debug\_1_txt_replacement.Properties.Resources.resources
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\1 txt replacement\1 txt replacement\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\1 txt replacement\1 txt replacement\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\1 txt replacement\1 txt replacement\obj\x86\Debug\1 txt replacement.exe
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\1 txt replacement\1 txt replacement\obj\x86\Debug\1 txt replacement.pdb

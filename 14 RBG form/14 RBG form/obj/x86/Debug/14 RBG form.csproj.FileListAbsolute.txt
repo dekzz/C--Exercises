@@ -1,0 +1,9 @@
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\14 RBG form\14 RBG form\bin\Debug\14 RBG form.exe
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\14 RBG form\14 RBG form\bin\Debug\14 RBG form.pdb
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\14 RBG form\14 RBG form\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\14 RBG form\14 RBG form\obj\x86\Debug\_14_RBG_form.frmRBG.resources
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\14 RBG form\14 RBG form\obj\x86\Debug\_14_RBG_form.Properties.Resources.resources
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\14 RBG form\14 RBG form\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\14 RBG form\14 RBG form\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\14 RBG form\14 RBG form\obj\x86\Debug\14 RBG form.exe
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\14 RBG form\14 RBG form\obj\x86\Debug\14 RBG form.pdb

@@ -1,0 +1,9 @@
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\15 apli shutdown\15 apli shutdown\bin\Debug\15 apli shutdown.exe
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\15 apli shutdown\15 apli shutdown\bin\Debug\15 apli shutdown.pdb
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\15 apli shutdown\15 apli shutdown\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\15 apli shutdown\15 apli shutdown\obj\x86\Debug\_15_apli_shutdown.frmShutdown.resources
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\15 apli shutdown\15 apli shutdown\obj\x86\Debug\_15_apli_shutdown.Properties.Resources.resources
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\15 apli shutdown\15 apli shutdown\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\15 apli shutdown\15 apli shutdown\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\15 apli shutdown\15 apli shutdown\obj\x86\Debug\15 apli shutdown.exe
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\15 apli shutdown\15 apli shutdown\obj\x86\Debug\15 apli shutdown.pdb

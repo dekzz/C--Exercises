@@ -1,0 +1,9 @@
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\4 number sort\4 number sort\bin\Debug\4 number sort.exe
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\4 number sort\4 number sort\bin\Debug\4 number sort.pdb
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\4 number sort\4 number sort\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\4 number sort\4 number sort\obj\x86\Debug\_4_number_sort.frmSort.resources
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\4 number sort\4 number sort\obj\x86\Debug\_4_number_sort.Properties.Resources.resources
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\4 number sort\4 number sort\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\4 number sort\4 number sort\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\4 number sort\4 number sort\obj\x86\Debug\4 number sort.exe
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\4 number sort\4 number sort\obj\x86\Debug\4 number sort.pdb

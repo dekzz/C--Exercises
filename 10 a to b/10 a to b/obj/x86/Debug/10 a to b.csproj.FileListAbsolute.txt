@@ -1,0 +1,9 @@
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\10 a to b\10 a to b\bin\Debug\10 a to b.exe
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\10 a to b\10 a to b\bin\Debug\10 a to b.pdb
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\10 a to b\10 a to b\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\10 a to b\10 a to b\obj\x86\Debug\_10_a_to_b.frmSwitch.resources
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\10 a to b\10 a to b\obj\x86\Debug\_10_a_to_b.Properties.Resources.resources
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\10 a to b\10 a to b\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\10 a to b\10 a to b\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\10 a to b\10 a to b\obj\x86\Debug\10 a to b.exe
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\10 a to b\10 a to b\obj\x86\Debug\10 a to b.pdb

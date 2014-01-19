@@ -1,0 +1,9 @@
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\5 countdown\5 countdown\bin\Debug\5 countdown.exe
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\5 countdown\5 countdown\bin\Debug\5 countdown.pdb
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\5 countdown\5 countdown\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\5 countdown\5 countdown\obj\x86\Debug\_5_countdown.frmCountdown.resources
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\5 countdown\5 countdown\obj\x86\Debug\_5_countdown.Properties.Resources.resources
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\5 countdown\5 countdown\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\5 countdown\5 countdown\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\5 countdown\5 countdown\obj\x86\Debug\5 countdown.exe
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\5 countdown\5 countdown\obj\x86\Debug\5 countdown.pdb

@@ -1,0 +1,9 @@
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\8 intervals\8 intervals\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\8 intervals\8 intervals\obj\x86\Debug\_8_intervals.frmInerval.resources
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\8 intervals\8 intervals\obj\x86\Debug\_8_intervals.Properties.Resources.resources
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\8 intervals\8 intervals\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\8 intervals\8 intervals\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\8 intervals\8 intervals\bin\Debug\8 intervals.exe
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\8 intervals\8 intervals\bin\Debug\8 intervals.pdb
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\8 intervals\8 intervals\obj\x86\Debug\8 intervals.exe
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\8 intervals\8 intervals\obj\x86\Debug\8 intervals.pdb

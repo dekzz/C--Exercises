@@ -1,0 +1,9 @@
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\18 month calendar\18 month calendar\bin\Debug\18 month calendar.exe
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\18 month calendar\18 month calendar\bin\Debug\18 month calendar.pdb
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\18 month calendar\18 month calendar\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\18 month calendar\18 month calendar\obj\x86\Debug\_18_month_calendar.frmMonthCal.resources
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\18 month calendar\18 month calendar\obj\x86\Debug\_18_month_calendar.Properties.Resources.resources
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\18 month calendar\18 month calendar\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\18 month calendar\18 month calendar\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\18 month calendar\18 month calendar\obj\x86\Debug\18 month calendar.exe
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\18 month calendar\18 month calendar\obj\x86\Debug\18 month calendar.pdb

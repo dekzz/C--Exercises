@@ -1,0 +1,9 @@
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\16 click count\16 click count\bin\Debug\16 click count.exe
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\16 click count\16 click count\bin\Debug\16 click count.pdb
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\16 click count\16 click count\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\16 click count\16 click count\obj\x86\Debug\_16_click_count.frmCount.resources
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\16 click count\16 click count\obj\x86\Debug\_16_click_count.Properties.Resources.resources
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\16 click count\16 click count\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\16 click count\16 click count\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\16 click count\16 click count\obj\x86\Debug\16 click count.exe
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\16 click count\16 click count\obj\x86\Debug\16 click count.pdb

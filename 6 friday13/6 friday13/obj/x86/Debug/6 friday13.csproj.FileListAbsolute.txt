@@ -1,0 +1,9 @@
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\6 friday13\6 friday13\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\6 friday13\6 friday13\obj\x86\Debug\_6_friday13.frmFriday.resources
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\6 friday13\6 friday13\obj\x86\Debug\_6_friday13.Properties.Resources.resources
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\6 friday13\6 friday13\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\6 friday13\6 friday13\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\6 friday13\6 friday13\bin\Debug\6 friday13.exe
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\6 friday13\6 friday13\bin\Debug\6 friday13.pdb
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\6 friday13\6 friday13\obj\x86\Debug\6 friday13.exe
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\6 friday13\6 friday13\obj\x86\Debug\6 friday13.pdb

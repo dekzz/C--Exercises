@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16 click count", "16 click count\16 click count.csproj", "{A0F3BB24-F15A-49FD-9CA5-1A8D4F0AB8BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0F3BB24-F15A-49FD-9CA5-1A8D4F0AB8BF}.Debug|x86.ActiveCfg = Debug|x86
+		{A0F3BB24-F15A-49FD-9CA5-1A8D4F0AB8BF}.Debug|x86.Build.0 = Debug|x86
+		{A0F3BB24-F15A-49FD-9CA5-1A8D4F0AB8BF}.Release|x86.ActiveCfg = Release|x86
+		{A0F3BB24-F15A-49FD-9CA5-1A8D4F0AB8BF}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

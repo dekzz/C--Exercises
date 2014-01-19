@@ -1,0 +1,9 @@
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\19 position switcher\19 position switcher\bin\Debug\19 position switcher.exe
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\19 position switcher\19 position switcher\bin\Debug\19 position switcher.pdb
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\19 position switcher\19 position switcher\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\19 position switcher\19 position switcher\obj\x86\Debug\_19_position_switcher.frmPosSwitch.resources
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\19 position switcher\19 position switcher\obj\x86\Debug\_19_position_switcher.Properties.Resources.resources
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\19 position switcher\19 position switcher\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\19 position switcher\19 position switcher\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\19 position switcher\19 position switcher\obj\x86\Debug\19 position switcher.exe
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\19 position switcher\19 position switcher\obj\x86\Debug\19 position switcher.pdb

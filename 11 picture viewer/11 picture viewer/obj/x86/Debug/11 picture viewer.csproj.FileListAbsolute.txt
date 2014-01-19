@@ -1,0 +1,9 @@
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\11 picture viewer\11 picture viewer\bin\Debug\11 picture viewer.exe
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\11 picture viewer\11 picture viewer\bin\Debug\11 picture viewer.pdb
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\11 picture viewer\11 picture viewer\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\11 picture viewer\11 picture viewer\obj\x86\Debug\_11_picture_viewer.frmPicView.resources
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\11 picture viewer\11 picture viewer\obj\x86\Debug\_11_picture_viewer.Properties.Resources.resources
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\11 picture viewer\11 picture viewer\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\11 picture viewer\11 picture viewer\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\11 picture viewer\11 picture viewer\obj\x86\Debug\11 picture viewer.exe
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\11 picture viewer\11 picture viewer\obj\x86\Debug\11 picture viewer.pdb

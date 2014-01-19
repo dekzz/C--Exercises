@@ -1,0 +1,9 @@
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\21 mouse coordinates\21 mouse coordinates\bin\Debug\21 mouse coordinates.exe
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\21 mouse coordinates\21 mouse coordinates\bin\Debug\21 mouse coordinates.pdb
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\21 mouse coordinates\21 mouse coordinates\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\21 mouse coordinates\21 mouse coordinates\obj\x86\Debug\_21_mouse_coordinates.frmMouseCoord.resources
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\21 mouse coordinates\21 mouse coordinates\obj\x86\Debug\_21_mouse_coordinates.Properties.Resources.resources
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\21 mouse coordinates\21 mouse coordinates\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\21 mouse coordinates\21 mouse coordinates\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\21 mouse coordinates\21 mouse coordinates\obj\x86\Debug\21 mouse coordinates.exe
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\21 mouse coordinates\21 mouse coordinates\obj\x86\Debug\21 mouse coordinates.pdb

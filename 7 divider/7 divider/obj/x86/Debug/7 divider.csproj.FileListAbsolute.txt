@@ -1,0 +1,9 @@
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\7 divider\7 divider\bin\Debug\7 divider.exe
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\7 divider\7 divider\bin\Debug\7 divider.pdb
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\7 divider\7 divider\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\7 divider\7 divider\obj\x86\Debug\_7_divider.frmDivide.resources
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\7 divider\7 divider\obj\x86\Debug\_7_divider.Properties.Resources.resources
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\7 divider\7 divider\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\7 divider\7 divider\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\7 divider\7 divider\obj\x86\Debug\7 divider.exe
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\7 divider\7 divider\obj\x86\Debug\7 divider.pdb

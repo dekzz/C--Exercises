@@ -1,0 +1,9 @@
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\12 color form\12 color form\bin\Debug\12 color form.exe
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\12 color form\12 color form\bin\Debug\12 color form.pdb
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\12 color form\12 color form\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\12 color form\12 color form\obj\x86\Debug\_12_color_form.frmColor.resources
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\12 color form\12 color form\obj\x86\Debug\_12_color_form.Properties.Resources.resources
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\12 color form\12 color form\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\12 color form\12 color form\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\12 color form\12 color form\obj\x86\Debug\12 color form.exe
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\12 color form\12 color form\obj\x86\Debug\12 color form.pdb

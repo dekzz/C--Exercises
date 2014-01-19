@@ -1,0 +1,9 @@
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\17 lotto\17 lotto\bin\Debug\17 lotto.exe
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\17 lotto\17 lotto\bin\Debug\17 lotto.pdb
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\17 lotto\17 lotto\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\17 lotto\17 lotto\obj\x86\Debug\_17_lotto.frmLotto.resources
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\17 lotto\17 lotto\obj\x86\Debug\_17_lotto.Properties.Resources.resources
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\17 lotto\17 lotto\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\17 lotto\17 lotto\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\17 lotto\17 lotto\obj\x86\Debug\17 lotto.exe
+D:\edu\foi\PDS\6. semestar\programsko inženjerstvo\obrana\17 lotto\17 lotto\obj\x86\Debug\17 lotto.pdb
